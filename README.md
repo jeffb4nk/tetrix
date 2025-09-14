@@ -9,12 +9,6 @@ Incluye puntuación, niveles, aumento progresivo de dificultad, vista previa de 
 
 ---
 
-## Captura
-
-> Agrega aquí una captura de pantalla del juego si lo deseas.
-
----
-
 ## Controles
 
 - `<` `>`  Mover la pieza horizontalmente
